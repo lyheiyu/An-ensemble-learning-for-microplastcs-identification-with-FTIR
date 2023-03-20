@@ -1,1 +1,1 @@
-You can fin the dataset for the model in this folder
+You can find the dataset for the model in this folder
