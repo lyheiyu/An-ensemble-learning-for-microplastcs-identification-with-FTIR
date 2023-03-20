@@ -25,10 +25,10 @@ Use the below bibtex to cite us.
   publisher={Elsevier}
 }
 
-@misc{yan2022ensemble_2023,
+@misc{yan2023ensemble,
   title={An ensemble machine learning method for microplastics identification with FTIR spectrums},
   author={Yan, Xinyu and Cao, Zhi and Murphy, Alan and Qiao, Yuansong},
-  year={2022},
+  year={2023},
   publisher={Github},
   howpublished={\url{https://github.com/lyheiyu/An-ensemble-learning-for-microplastcs-identification-with-FTIR/}},
 }
