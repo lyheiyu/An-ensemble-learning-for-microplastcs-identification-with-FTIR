@@ -14,20 +14,23 @@ Microplastics (MPs) (size < 5 mm) marine pollution have been investigated and mo
 Use the below bibtex to cite us.
 
 ```BibTeX
-@misc{pLitterStreet_2021,
-  title={pLitter-street, Plastic Litter detection along the streets using deep learning},
-  author={Sriram Reddy, Lakmal Deshapriya, Chatura Lavanga, Dan Tran, Kavinda Gunasekara, Frank Yrle, Angsana Chaksan, and Sujit},
-  year={2021},
-  publisher={Github},
-  howpublished={\url{https://github.com/gicait/pLitter/}},
+@article{yan2022ensemble,
+  title={An ensemble machine learning method for microplastics identification with FTIR spectrum},
+  author={Yan, Xinyu and Cao, Zhi and Murphy, Alan and Qiao, Yuansong},
+  journal={Journal of Environmental Chemical Engineering},
+  volume={10},
+  number={4},
+  pages={108130},
+  year={2022},
+  publisher={Elsevier}
 }
 
-@misc{pLitterFloat_2022,
-  title={pLitter-float, floating plastic litter detection in the rivers},
-  author={Sriram Reddy, Chatura Lavanga, Kavinda Gunasekara, and Angsana Chaksan},
+@misc{yan2022ensemble_2023,
+  title={An ensemble machine learning method for microplastics identification with FTIR spectrums},
+  author={Yan, Xinyu and Cao, Zhi and Murphy, Alan and Qiao, Yuansong},
   year={2022},
   publisher={Github},
-  howpublished={\url{https://github.com/gicait/pLitter/}},
+  howpublished={\url{https://github.com/lyheiyu/An-ensemble-learning-for-microplastcs-identification-with-FTIR/}},
 }
 
 ```
@@ -35,5 +38,5 @@ Use the below bibtex to cite us.
 
 ## Developed by
 
-Software Research Institute](https://sri.ait.ie/) of [Technological University of the Shannon: Midlands Midwest](https://tus.ie/).
+[Software Research Institute](https://sri.ait.ie/) of [Technological University of the Shannon: Midlands Midwest](https://tus.ie/).
 
