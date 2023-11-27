@@ -4,6 +4,7 @@ Microplastics (MPs) (size < 5 mm) marine pollution have been investigated and mo
 
 ## Introduction
 This repo provides 2 datasets:
+For first, you should install the library of Sklearn, numpy, Keras. And the files named utils.py and FTIR_PLS.py that must be downloaded in your project.
 
 - Kedzierski’s
 
